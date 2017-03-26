@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1066248793855",
+    "firebase_url": "https://pairme-c425b.firebaseio.com",
+    "project_id": "pairme-c425b",
+    "storage_bucket": "pairme-c425b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1066248793855:android:0014b5316d8d10d5",
+        "android_client_info": {
+          "package_name": "com.pairme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1066248793855-jk1ipcet5qbcl612981chgtpaf9eraug.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6frboAD9cKNRKYBONCi1Gvad7VFPBnxk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
