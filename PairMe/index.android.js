@@ -235,11 +235,11 @@ export default class PairMe extends Component {
     }
     catch (e) {
       firebase.initializeApp({
-        apiKey: "AIzaSyAkcAWKk97MgZlrfSPmrToBynEfT26f6FQ",
+        apiKey: "",
         authDomain: "pairme-c425b.firebaseapp.com",
         databaseURL: "https://pairme-c425b.firebaseio.com",
         storageBucket: "pairme-c425b.appspot.com",
-        messagingSenderId: "1066248793855"
+        messagingSenderId: ""
       });
     }
     profRef = firebase.database().ref("professors");
